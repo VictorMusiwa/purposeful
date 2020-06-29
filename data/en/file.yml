@@ -1,0 +1,56 @@
+---
+about:
+  enable: true
+  title: Purposeful Camp Namibia
+  content: "Purposeful Camp Namibia sees its annual alumni conquering and taking charge
+    of their lives. We seek to send out confident and powerful influencers, trailblazers,
+    positive disruptors and innovators into the mainstream youth development sphere
+    of Namibia. The initiative envisions trainees and mentees \ntransforming the country
+    through various activities that are aligned with the three P’s: Purpose, Passion
+    and Proactivity.\n\n"
+  image: images/pcn_logo_big.jpg
+featured_service:
+  enable: false
+  service_item:
+  - name: Interface Design
+    icon: ion-erlenmeyer-flask
+    color: primary
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Product Branding
+    icon: ion-leaf
+    color: primary-dark
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Game Development
+    icon: ion-lightbulb
+    color: primary-darker
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+service:
+  enable: false
+  title: Our Partners
+  description: We would like to acknowledge these organizations for their generous
+    support this course.
+  service_item:
+  - icon: meatco
+    name: Meatco
+    content: ''
+  - icon: tunacor
+    name: Tunacor
+    content: ''
+  - icon: old mutual
+    name: Old Mutual
+    content: ''
+  - icon: images/nwr.png
+    name: Namibia Wildlife Resorts
+    content: ''
+  - icon: images/fnb.png
+    name: First National Bank
+    content: ''
+  - icon: images/mtc.png
+    name: MTC
+    content: ''
+cta:
+  enable: false
+title: About Us

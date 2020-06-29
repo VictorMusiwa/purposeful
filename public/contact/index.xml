@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drop Us A Note on Purposeful Camp Namibia</title>
+    <link>www.purposefulcampnamibia.com/contact/</link>
+    <description>Recent content in Drop Us A Note on Purposeful Camp Namibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Purposelful Camp Namibia, All Rights Reserved</copyright>
+    
+	<atom:link href="www.purposefulcampnamibia.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

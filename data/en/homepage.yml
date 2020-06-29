@@ -1,0 +1,121 @@
+---
+banner:
+  enable: true
+  bg_image: images/page-title.jpg
+  bg_overlay: true
+  title: The Ultimate Purposeful Experience
+  content: "Purposeful Camp Namibia sees its annual alumni conquering and taking charge
+    of their lives. We seek to send out confident and powerful influencers, trailblazers,
+    positive disruptors and innovators into the mainstream youth development sphere
+    of Namibia. The initiative envisions trainees and mentees \ntransforming the country
+    through various activities that are aligned with the three P’s: Purpose, Passion
+    and Proactivity."
+  button:
+    enable: false
+    label: Discover Our Project
+    link: project
+about:
+  enable: false
+  title: Welcome to the Purposeful Camp Namibia website
+  description: ''
+  content: "Purposeful Camp Namibia sees its annual alumni conquering and taking charge
+    of their lives. We seek to send out confident and powerful influencers, trailblazers,
+    positive disruptors and innovators into the mainstream youth development sphere
+    of Namibia. The initiative envisions trainees and mentees \ntransforming the country
+    through various activities that are aligned with the three P’s: Purpose, Passion
+    and Proactivity."
+  image: images/group1.jpg
+portfolio:
+  enable: false
+  bg_image: images/logospread.png
+  title: 'Here’s Our WHY '
+  content: "We are 20 years into the 21st century and the status quo does not speak
+    volume about millennials. Speaking from a personal insight, we attend so many
+    personal development functions, and it is unfortunate that our peers are hardly
+    seen at such functions but rather at less productive events. We have identified
+    a gap in mind-sets and stereotypical mentalities within our generation. As the
+    youth, it is not a questionable matter that we are the leaders and pioneers of
+    tomorrow; however, the current conditions scream uncertainty as to whether we
+    will be competent enough to spearhead this country into prosperity as our elders
+    have done for us. There is no assurance that we will be able to take up the Namibian
+    Torch and continue to run the race to make NAMIBIA GREAT. \nIt is against this
+    background that we have taken the responsibility to uplift one another and bring
+    about a revolution amongst the youth. We have decided to take on the challenge
+    to empower our fellow youth on a national level, with Purposeful Camp Namibia.
+    Purposeful Camp Namibia is a youth-led vibrant, uplifting and self-developing
+    initiative for young Namibians. It targets to spearhead total youth emancipation
+    within the 15-20 age group. \n\nAims and objectives \n-to instil a culture of
+    engaging in purposeful occasions \n-to nurture potential public speakers and enhance
+    their skills \n-to spark the spirit of financial, social and personal emancipation
+    among youth \n-to assist in self-discovery and growth \n-to incorporate entrepreneurial
+    mentorship \n-explore leadership aspects and apply them in daily life (both on
+    a personal and communal scale) \n\nLong-term vision \nPurposeful Camp Namibia
+    sees its annual alumni conquering and taking charge of their lives. We seek to
+    send out confident and powerful influencers, trailblazers, positive disruptors
+    and innovators into the mainstream youth development sphere of Namibia. The initiative
+    envisions trainees and mentees \ntransforming the country through various activities
+    that are aligned with the three P’s: Purpose, Passion and Proactivity. \nPlan
+    of Action \nThe abovementioned aims will be met through a seven-day wilderness
+    camp comprising of the following traits: \n▪ Course lectures on: personal development,
+    financial education, leadership and public speaking skills\n▪ Practical activities
+    on the aforementioned lectures \n▪ Engagement session with Purposeful Camp’s Patron
+    (Hon. Tom Alweendo, Minister of Mines and Energy) \n▪ 3 months post-training mentorship
+    series for camp alumni\n"
+  button:
+    enable: false
+    label: View Works
+    link: project
+service:
+  enable: false
+cta:
+  enable: false
+  bg_image: images/pcn_logo_big_tinted.jpg
+  title: We design delightful digital experiences.
+  content: Read more about what we do and our philosophy of design. Judge for yourself
+    The work and results <br> we’ve achieved for other clients, and meet our highly
+    experienced Team who just love to design.
+  button:
+    enable: true
+    label: Tell Us Your Story
+    link: contact
+funfacts:
+  enable: true
+  title: Highlights
+  description: "Purposeful Camp Namibia sees its annual alumni conquering and taking
+    charge of their lives. We seek to send out confident and powerful influencers,
+    trailblazers, positive disruptors and innovators into the mainstream youth development
+    sphere of Namibia. The initiative envisions trainees and mentees \ntransforming
+    the country through various activities that are aligned with the three P’s: Purpose,
+    Passion and Proactivity."
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Participants to date
+    count: "40"
+  - icon: ion-ios-glasses-outline
+    name: Target participants in 5 years
+    count: "500"
+  - icon: ion-ios-compose-outline
+    name: Camps hosted so far
+    count: "1"
+  - icon: ion-ios-timer-outline
+    name: Total impacted lives
+    count: "400"
+  testimonial_slider:
+  - name: Doreen Lyomba
+    image: images/avatar.png
+    designation: Purposeful Camp Namibia Participant
+    content: 'My experience with PCN was life-changing. From creating strong bonds
+      with people on the same wavelength as myself to truly having an honest introspection
+      of my character and life in general. It will remain an experience I will cherish
+      for a lifetime.” '
+  - name: Eliaser Paulus
+    image: images/avatar.png
+    designation: Purposeful Camp Namibia Participant
+    content: Thank you, Purposeful Camp Namibia for being the sole initiator of a
+      Purposeful journey in my life.
+  - name: Justina Mulenga
+    image: images/avatar.png
+    designation: Purposeful Camp Namibia Participant
+    content: Purposeful Camp Namibia helped me realize the change I can bring to my
+      community. It also helped me with financial literacy and emotional intelligence
+      as well.

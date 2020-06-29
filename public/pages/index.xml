@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Purposeful Camp Namibia</title>
+    <link>www.purposefulcampnamibia.com/pages/</link>
+    <description>Recent content in Pages on Purposeful Camp Namibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Purposelful Camp Namibia, All Rights Reserved</copyright>
+    
+	<atom:link href="www.purposefulcampnamibia.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>www.purposefulcampnamibia.com/pages/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.purposefulcampnamibia.com/pages/about-us/</guid>
+      <description>The Origin Story The Purposeful Camp Namibia story starts with a ten minutes voice note that was send out at 3 AM that led to the fruition of the camp.</description>
+    </item>
+    
+    <item>
+      <title>APPLY</title>
+      <link>www.purposefulcampnamibia.com/pages/apply/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.purposefulcampnamibia.com/pages/apply/</guid>
+      <description>How to apply Click here to apply online 
+alternatively
+Click here to download the application form</description>
+    </item>
+    
+    <item>
+      <title>Our Partners</title>
+      <link>www.purposefulcampnamibia.com/pages/our-partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.purposefulcampnamibia.com/pages/our-partners/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

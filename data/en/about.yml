@@ -1,0 +1,85 @@
+---
+about:
+  enable: true
+  image: images/group1.jpg
+  title: We strive to be the best and <br> make awesome work.
+  content: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  button:
+    enable: true
+    label: Download Company Profile
+    link: "#"
+  funfacts:
+  - icon: ion-ios-flask-outline
+    name: Completed Projects
+    count: "349"
+  - icon: ion-ios-flame-outline
+    name: Lines Of Code
+    count: "35000"
+  - icon: ion-ios-pint-outline
+    name: Satisfied Customer
+    count: "70"
+  - icon: ion-ios-wineglass-outline
+    name: Awards Winner
+    count: "10"
+  - icon: ion-ios-chatboxes-outline
+    name: Satisfied Customer
+    count: "75"
+  - icon: ion-ios-body-outline
+    name: Awards Winner
+    count: "20"
+features:
+  enable: true
+  title: We are indepented Design & Development Agency
+  feature_item:
+  - icon: ion-ios-color-filter-outline
+    name: IOS App Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-unlocked-outline
+    name: App Secutity
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-game-controller-b-outline
+    name: Games Development
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-mic-outline
+    name: Animation and Editing
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-lightbulb-outline
+    name: UI/UX Design
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+  - icon: ion-ios-star-outline
+    name: Branding
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut
+testimonial:
+  enable: true
+mission_vision:
+  enable: true
+  tabs:
+  - name: Aims and Objectives
+    content: "- to instil a culture of engaging in purposeful occasions \n- to nurture
+      potential public speakers and enhance their skills \n- to spark the spirit of
+      financial, social and personal emancipation among youth \n- to assist in self-discovery
+      and growth \n- to incorporate entrepreneurial mentorship \n- explore leadership
+      aspects and apply them in daily life (both on a personal and communal scale) "
+  - name: Long Term Vision
+    content: "Purposeful Camp Namibia sees its annual alumni conquering and taking
+      charge of their lives. We seek to send out confident and powerful influencers,
+      trailblazers, positive disruptors and innovators into the mainstream youth development
+      sphere of Namibia. The initiative envisions trainees and mentees transforming
+      the country through various activities that are aligned with the three P’s:
+      Purpose, Passion and Proactivity. \nPlan of Action \nThe abovementioned aims
+      will be met through a seven-day wilderness camp comprising of the following
+      traits: \n▪ Course lectures on: personal development, financial education, leadership
+      and public speaking skills \n▪ Practical activities on the aforementioned lectures
+      \n▪ Engagement session with Purposeful Camp’s Patron (Hon. Tom Alweendo, Minister
+      of Mines and Energy) \n▪ 3 months post-training mentorship series for camp alumni\n"
+cta:
+  enable: false
