@@ -34,9 +34,13 @@ URL = "pages/apply"
 name = "Apply"
 weight = 3
 [[menu.main]]
+URL = "gallery"
+name = "Gallery"
+weight = 4
+[[menu.main]]
 URL = "/partner"
 name = "Our Partners"
-weight = 4
+weight = 5
 [params]
 author = "Digitize Africa"
 contact_form_action = "#"
