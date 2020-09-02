@@ -6,10 +6,4 @@ title = "APPLY"
 +++
 ### **How to apply**
 
-[Click here to apply online ](https://forms.gle/ECYWxhXa2Un2nfgY8 "Online Application Form")
-
-alternatively
-
-[Click here to download the application form](https://www.purposefulcampnamibia.com/images/pcnapp.pdf "Offline Application Form")
-
-![](/images/pcn_flyer.jpg)
+The application process for the 2020 edition closed on 31 August 2020. If you would like to apply for the 2021 edition, please check back in early 2021.
